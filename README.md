@@ -1,5 +1,7 @@
-Discourse .GIF to .MP4
-======================
+Discourse GIF to MP4
+====================
+
+This plugin converts automatically all GIF uploads to MP4 videos.
 
 Installation
 ------------
